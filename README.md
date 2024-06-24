@@ -2,7 +2,7 @@
 The files uploaded in this repo are some training session slides given by me(on few occassions). Some salient points are as below - 
 * I cannot share the actual relevant videos due to some compliance issues.
 * The slides are informative or not, not sure about that(depends on the audience) but probably not as informative as some paid courses by Udemy/Coursera/Pluralsight etc
-* Also the slides are probably not upto the mark(UI/DataVisualization wise) i.e. they are not professional slides at all & needs lots of beautifucations.**The Software Architecture & Patterns Slides needs updation/refinement content-wise as well.Will try to refine/update sometime in future.**
+* Also the slides are probably not upto the mark(UI/DataVisualization wise) i.e. they are not professional slides at all & needs lots of beautifucations.**The Software Architecture & Patterns Slides needs updation/refinement content-wise as well.Will try to refine/update sometime in future.**                
 * I would suggest, to grab as much info as possible from the slides, follow the below steps -         
   a) 1st try to learn "what the technology means".If the slide(s) & resource(s) mentioned is/are not enough/self-explanatory, then explore more on the same via blogs/articles/wikis etc.       
   b) Then try to understand when & why to use the technology.       
