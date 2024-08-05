@@ -1,5 +1,3 @@
-**N.B. - Facing Some Issues with uploading the updated "Software Architecture & Patterns Slides".Will resolve the issue soon & upload that ASAP.**         
-         
 # My_Training_Sessions_Slides
 The files uploaded in this repo are some training session slides given by me(on few occassions). Some salient points are as below - 
 * I cannot share the actual relevant videos due to some compliance issues.
