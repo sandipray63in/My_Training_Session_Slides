@@ -1,4 +1,4 @@
-#My_Training_Session_Slides            
+**My_Training_Session_Slides**            
 The files uploaded in this repo are some training session slides given by me(on few occassions). Some salient points are as below -           
                
 I cannot share the actual relevant videos due to some compliance issues.          
