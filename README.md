@@ -1,1 +1,1 @@
-# My_Training_Session_Slides
+Discalaimers - I have not read/gone-through e2e of all the resources mentioned above(especially the paid ones). For the paid ones, mainly checked the ToC, reviews & other articles where they have been referred as recommended resources.Also some resources links might not be working due to various reasons, although they were working at the time of initial drafting. Also most of the slides needs beautification to make them more professional.
